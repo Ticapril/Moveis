@@ -1,0 +1,12 @@
+{
+    "name": "gabriel-oliveira/moveis",
+    "description": "git projeto",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ticapril",
+            "email": "gb.oliveirati@gmail.com"
+        }
+    ],
+    "require": {}
+}
